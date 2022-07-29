@@ -36,6 +36,16 @@ h2 {
 
 .about-me-text {
     font-size: 35px;
+    margin: 5px;
+    color:rgb(255, 255, 255);
+}
+
+.about-me-text-bg {
+    background-color: #383844;
+    margin-right: 10px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
 }
 
 .hero {
@@ -123,4 +133,5 @@ a {
     height: 500px;
     float:left;
     box-shadow: 5px 5px #1c1d25;
+    border-radius: 20px;
 }
