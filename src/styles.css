@@ -5,7 +5,16 @@ body {
 }
 
 footer {
-    height: 50px;
+    display:flex;
+    justify-content: center;
+    height: 140px;
+    align-content: center;
+}
+
+.footerimg {
+    margin:20px;
+    width: 100px;
+    height: 100px;
 }
 
 ::-webkit-scrollbar {
@@ -44,7 +53,6 @@ h2 {
     background-color: #383844;
     margin-right: 10px;
     border-radius: 20px;
-    text-align: center;
     padding: 20px;
 }
 
