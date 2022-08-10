@@ -97,10 +97,19 @@ h2 {
 }
 
 .box {
-    margin: 10px;
+    margin: 20px;
     text-align: center;
     width:300px;
     height:400px;
+    background-color: white;
+    box-shadow: 0px 0px 10px white;
+}
+
+.website-box {
+    margin: 20px;
+    text-align: center;
+    width:300px;
+    height:85px;
     background-color: white;
     box-shadow: 0px 0px 10px white;
 }
@@ -143,4 +152,10 @@ a {
     float:left;
     box-shadow: 5px 5px #1c1d25;
     border-radius: 20px;
+}
+
+.box-name h1 {
+    color:blanchedalmond;
+    font-size: 50px;
+    margin: 25px;
 }
